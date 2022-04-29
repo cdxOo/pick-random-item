@@ -1,0 +1,31 @@
+{
+  "name": "@cdxoo/pick-random-item",
+  "version": "0.0.1",
+  "description": "supports weighted picks",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npx mocha --bail test/*.spec.js"
+  },
+  "author": "Jan Schwalbe",
+  "license": "MIT",
+  "keywords": [
+    "pick",
+    "random",
+    "array",
+    "weight"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdxOo/pick-random-item.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cdxOo/pick-random-item/issues"
+  },
+  "homepage": "https://github.com/cdxOo/pick-random-item#readme"
+}
