@@ -51,7 +51,7 @@ var sanitizeItemWeights = (weights, requiredLength) => {
         }
     }
     else {
-        out = new Array(required).fill(1);
+        out = new Array(requiredLength).fill(1);
     }
 
     return out;
