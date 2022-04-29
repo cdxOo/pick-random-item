@@ -1,6 +1,6 @@
 {
   "name": "@cdxoo/pick-random-item",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "supports weighted picks",
   "main": "src/index.js",
   "scripts": {
